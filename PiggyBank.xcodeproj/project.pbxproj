@@ -11,6 +11,18 @@
 		3E9B7B1929590C6E00EF9702 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E9B7B1829590C6E00EF9702 /* ContentView.swift */; };
 		3E9B7B1B29590C7100EF9702 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E9B7B1A29590C7100EF9702 /* Assets.xcassets */; };
 		3E9B7B1E29590C7100EF9702 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E9B7B1D29590C7100EF9702 /* Preview Assets.xcassets */; };
+		3E9B7B2629590C7C00EF9702 /* Main.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3E9B7B2429590C7C00EF9702 /* Main.xcdatamodeld */; };
+		3E9B7B2829590D0B00EF9702 /* DataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E9B7B2729590D0B00EF9702 /* DataController.swift */; };
+		3E9B7B2A295910A500EF9702 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E9B7B29295910A500EF9702 /* HomeView.swift */; };
+		3E9B7B2C295BB89200EF9702 /* Date+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E9B7B2B295BB89200EF9702 /* Date+Extension.swift */; };
+		3E9B7B2E295BB9D600EF9702 /* Double+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E9B7B2D295BB9D600EF9702 /* Double+Extension.swift */; };
+		3E9B7B30295BBE7F00EF9702 /* AddNewPiggyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E9B7B2F295BBE7F00EF9702 /* AddNewPiggyView.swift */; };
+		3E9B7B32295BC0EF00EF9702 /* Piggy+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E9B7B31295BC0EF00EF9702 /* Piggy+Extension.swift */; };
+		3E9B7B34295BCB7600EF9702 /* PiggyViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E9B7B33295BCB7600EF9702 /* PiggyViewModel.swift */; };
+		3E9B7B36295BF3BB00EF9702 /* PhotoPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E9B7B35295BF3BB00EF9702 /* PhotoPicker.swift */; };
+		3E9B7B38295C1C5900EF9702 /* AddSavingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E9B7B37295C1C5900EF9702 /* AddSavingView.swift */; };
+		3EA3FFE7295CF759002F1A46 /* Color+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EA3FFE6295CF759002F1A46 /* Color+Extension.swift */; };
+		3EA3FFE9295D56DF002F1A46 /* PiggyCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EA3FFE8295D56DF002F1A46 /* PiggyCardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +31,18 @@
 		3E9B7B1829590C6E00EF9702 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3E9B7B1A29590C7100EF9702 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3E9B7B1D29590C7100EF9702 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3E9B7B2529590C7C00EF9702 /* Main.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Main.xcdatamodel; sourceTree = "<group>"; };
+		3E9B7B2729590D0B00EF9702 /* DataController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataController.swift; sourceTree = "<group>"; };
+		3E9B7B29295910A500EF9702 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		3E9B7B2B295BB89200EF9702 /* Date+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Extension.swift"; sourceTree = "<group>"; };
+		3E9B7B2D295BB9D600EF9702 /* Double+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Double+Extension.swift"; sourceTree = "<group>"; };
+		3E9B7B2F295BBE7F00EF9702 /* AddNewPiggyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNewPiggyView.swift; sourceTree = "<group>"; };
+		3E9B7B31295BC0EF00EF9702 /* Piggy+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Piggy+Extension.swift"; sourceTree = "<group>"; };
+		3E9B7B33295BCB7600EF9702 /* PiggyViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PiggyViewModel.swift; sourceTree = "<group>"; };
+		3E9B7B35295BF3BB00EF9702 /* PhotoPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoPicker.swift; sourceTree = "<group>"; };
+		3E9B7B37295C1C5900EF9702 /* AddSavingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddSavingView.swift; sourceTree = "<group>"; };
+		3EA3FFE6295CF759002F1A46 /* Color+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Extension.swift"; sourceTree = "<group>"; };
+		3EA3FFE8295D56DF002F1A46 /* PiggyCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PiggyCardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +77,19 @@
 			children = (
 				3E9B7B1629590C6E00EF9702 /* PiggyBankApp.swift */,
 				3E9B7B1829590C6E00EF9702 /* ContentView.swift */,
+				3E9B7B29295910A500EF9702 /* HomeView.swift */,
+				3E9B7B2F295BBE7F00EF9702 /* AddNewPiggyView.swift */,
+				3E9B7B37295C1C5900EF9702 /* AddSavingView.swift */,
+				3E9B7B2729590D0B00EF9702 /* DataController.swift */,
+				3EA3FFE8295D56DF002F1A46 /* PiggyCardView.swift */,
+				3E9B7B33295BCB7600EF9702 /* PiggyViewModel.swift */,
+				3E9B7B35295BF3BB00EF9702 /* PhotoPicker.swift */,
+				3E9B7B2B295BB89200EF9702 /* Date+Extension.swift */,
+				3E9B7B2D295BB9D600EF9702 /* Double+Extension.swift */,
+				3E9B7B31295BC0EF00EF9702 /* Piggy+Extension.swift */,
+				3EA3FFE6295CF759002F1A46 /* Color+Extension.swift */,
 				3E9B7B1A29590C7100EF9702 /* Assets.xcassets */,
+				3E9B7B2429590C7C00EF9702 /* Main.xcdatamodeld */,
 				3E9B7B1C29590C7100EF9702 /* Preview Content */,
 			);
 			path = PiggyBank;
@@ -137,8 +173,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3E9B7B2629590C7C00EF9702 /* Main.xcdatamodeld in Sources */,
+				3E9B7B36295BF3BB00EF9702 /* PhotoPicker.swift in Sources */,
+				3E9B7B38295C1C5900EF9702 /* AddSavingView.swift in Sources */,
+				3E9B7B32295BC0EF00EF9702 /* Piggy+Extension.swift in Sources */,
+				3E9B7B2829590D0B00EF9702 /* DataController.swift in Sources */,
+				3E9B7B2E295BB9D600EF9702 /* Double+Extension.swift in Sources */,
 				3E9B7B1929590C6E00EF9702 /* ContentView.swift in Sources */,
+				3E9B7B34295BCB7600EF9702 /* PiggyViewModel.swift in Sources */,
+				3E9B7B2A295910A500EF9702 /* HomeView.swift in Sources */,
 				3E9B7B1729590C6E00EF9702 /* PiggyBankApp.swift in Sources */,
+				3E9B7B30295BBE7F00EF9702 /* AddNewPiggyView.swift in Sources */,
+				3EA3FFE9295D56DF002F1A46 /* PiggyCardView.swift in Sources */,
+				3E9B7B2C295BB89200EF9702 /* Date+Extension.swift in Sources */,
+				3EA3FFE7295CF759002F1A46 /* Color+Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +323,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -304,6 +353,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -339,6 +389,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		3E9B7B2429590C7C00EF9702 /* Main.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				3E9B7B2529590C7C00EF9702 /* Main.xcdatamodel */,
+			);
+			currentVersion = 3E9B7B2529590C7C00EF9702 /* Main.xcdatamodel */;
+			path = Main.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 3E9B7B0B29590C6E00EF9702 /* Project object */;
 }
